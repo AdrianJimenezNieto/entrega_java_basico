@@ -1,8 +1,0 @@
-# Ignora la carpeta .idea
-.idea
-
-# Ignora la carpeta out
-out
-
-# Ignora los archivos iml
-*.iml
